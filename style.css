@@ -1,0 +1,43 @@
+.MAIN1{
+    text-decoration-color: aqua;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: aqua;
+   
+}
+
+ul > li{
+
+    display:inline ;
+    padding: 20px;
+    border-top: 2PX SOLID black;
+    border-bottom: 2PX SOLID black;
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+
+    border: 4PX solid black;
+    background-color: aliceblue;
+
+}
+image{
+    display: flex;
+    justify-content: center;
+    gap: 0px; 
+}
+.car {
+    width: 350px;
+    height: 250px;
+    margin-top: 40px;
+     border: none;
+    object-fit: cover;
+    border: 2px solid #000;
+  } 
+  
+
+ 
